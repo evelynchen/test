@@ -6,4 +6,8 @@ public class test {
     public test() {
 
     }
+
+    public test(String test) {
+        System.out.println(test);
+    }
 }
